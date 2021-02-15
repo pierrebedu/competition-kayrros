@@ -14,7 +14,7 @@ Deploiement "rapide" d'un modèle en visant l'efficacité et la rationnalité :
 - courbes d'apprentissage
 - tentative infructueuse d'adressage de l'underfitting par expansion polynomiale
 
-NB: pistes d'amélioration non explorées (classement à la compétition satisfaisant)
+NB: pistes non explorées (classement à la compétition satisfaisant)
 - essai de techniques à base d'arbres 
 - SVM
 - NN
