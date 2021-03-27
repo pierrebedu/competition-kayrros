@@ -1,3 +1,5 @@
+//work in progress...//
+
 # competition-kayrros
 Competition de l'entreprise kayrros (5 ième). Regression.
 
