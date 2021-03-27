@@ -1,17 +1,14 @@
 //work in progress...//
 
-# competition-kayrros
-Competition de l'entreprise kayrros (5 ième). Regression.
-
-Il s'agit de prévoir la production de deux groupes d'usines.
-Difficultés liées à la taille du dataset (250 000 samples) et au fait que des anomalies de fonctionnement (incidents dans l'usine) créent des pics de "bruit".
+KAYRROS CHALLENGE (5th). Predict the production of different groups of asset on the basis of geospatial data. Regression techniques.
+255 000 samples.
 
 ###########################################################################
 
 HOW TO USE THIS?
 
-    download the dataset
-    launch the EDA and modeles files in a Jupyter environnement
+   - download the dataset
+   - launch the EDA and modeles files in a Jupyter environnement
 
 ##############################################################################
 
