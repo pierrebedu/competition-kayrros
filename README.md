@@ -7,6 +7,7 @@ HOW TO USE THIS?
 
    - download the dataset
    - launch the EDA and modeles files in a Jupyter environnement
+   - informations : https://challengedata.ens.fr/participants/challenges/39/
 
 ##############################################################################
 
